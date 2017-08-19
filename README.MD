@@ -45,4 +45,4 @@ filterJars | false |  | List with wildcard expression (i.e. "commons-*" that wil
 
 ## examples
 see the directory examples and run `mvn package site` on each project. The result for `webapp-example` is this diagram:
-![alt text](https://github.com/robinvandenbogaard/webapp2diagram/docs/webapp2diagram-simple-war-example.svg "Manifestation diagram for webapp-example.")
+![alt text](https://github.com/robinvandenbogaard/webapp2diagram/blob/master/docs/webapp2diagram-simple-war-example.svg "Manifestation diagram for webapp-example.")
