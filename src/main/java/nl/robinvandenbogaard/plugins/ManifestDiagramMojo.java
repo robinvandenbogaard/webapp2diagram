@@ -1,4 +1,4 @@
-package nl.topicus.rvdb;
+package nl.robinvandenbogaard.plugins;
 
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;

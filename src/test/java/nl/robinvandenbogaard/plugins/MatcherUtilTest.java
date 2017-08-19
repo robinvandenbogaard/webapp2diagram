@@ -1,6 +1,5 @@
-package nl.topicus.rvdb;
+package nl.robinvandenbogaard.plugins;
 
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 

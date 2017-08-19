@@ -1,4 +1,4 @@
-package nl.topicus.rvdb;
+package nl.robinvandenbogaard.plugins;
 
 import net.sourceforge.plantuml.FileFormat;
 import net.sourceforge.plantuml.FileFormatOption;
@@ -14,8 +14,6 @@ import java.nio.charset.Charset;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 class DiagramGenerator {
 

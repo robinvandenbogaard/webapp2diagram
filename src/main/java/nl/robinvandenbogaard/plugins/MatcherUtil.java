@@ -1,4 +1,4 @@
-package nl.topicus.rvdb;
+package nl.robinvandenbogaard.plugins;
 
 import org.apache.commons.io.FilenameUtils;
 

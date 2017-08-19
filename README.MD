@@ -21,7 +21,7 @@ filterJars | false |  | List with wildcard expression (i.e. "commons-*" that wil
 ## usage
 ```xml
             <plugin>
-                <groupId>nl.robinvandenbogaard</groupId>
+                <groupId>nl.robinvandenbogaard.plugins</groupId>
                 <artifactId>webapp2diagram-maven-plugin</artifactId>
                 <version>1.0-SNAPSHOT</version>
                 <configuration>
