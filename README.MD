@@ -47,4 +47,4 @@ filterJars | false |  | List with wildcard expression (i.e. "commons-*" that wil
 
 ## examples
 See the directory examples and run `mvn package site` on each project. The result for `webapp-example` is this diagram:
-![Manifestation diagram for webapp-example.](https://github.com/robinvandenbogaard/webapp2diagram/blob/master/docs/webapp2diagram-simple-war-example.svg "Manifestation diagram for webapp-example.")
+![Manifestation diagram for webapp-example.](https://robinvandenbogaard.github.io/webapp2diagram/webapp2diagram-simple-war-example.svg "Manifestation diagram for webapp-example.")
