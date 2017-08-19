@@ -1,7 +1,7 @@
 # webapp2diagram
 
 A maven plugin to create diagrams based on webapps. The current version only supports creation of manifestation diagrams for war and ear modules.
-It creates an SVG image that can be included in for i.e. in the project site. The plugins walks the ear or war file and generates a description file for PlantUML. From the description file it generates the diagram using graphviz (https://graphviz.com).
+It creates an SVG image that can be included in for i.e. in the project site. The plugins walks the ear or war file and generates a description file for PlantUML (https://plantuml.com/). From the description file it generates the diagram using graphviz (https://graphviz.com).
 
 If an ear file includes war files it will unpack those war files and traverse them as well.
 
