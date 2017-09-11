@@ -45,6 +45,9 @@ filterJars | false |  | List with wildcard expression (i.e. "commons-*" that wil
             </plugin>
 ```
 
+or run the plugin once from commandline:
+```mvn nl.robinvandenbogaard.plugins:webapp2diagram-maven-plugin:1.0-SNAPSHOT:manifest-diagram -DexcludeDirs=maven,classes -DfilterJars=*cli*```
+
 ## examples
 See the directory examples and run `mvn package site` on each project. The result for `webapp-example` is this diagram:
 ![Manifestation diagram for webapp-example.](https://robinvandenbogaard.github.io/webapp2diagram/webapp2diagram-simple-war-example.svg "Manifestation diagram for webapp-example.")
